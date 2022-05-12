@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buunna
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html, css and js
 - 💞️ I’m looking to collaborate on ... cryptocurrency 
 - 📫 How to reach me ... here
 
